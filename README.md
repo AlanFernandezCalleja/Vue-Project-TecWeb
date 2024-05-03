@@ -1,28 +1,24 @@
-<<<<<<< HEAD
-# proyecto_vuejs
+# 
 
-## Project setup
+## Psicopedagogía sitio web
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Psicopedagogía
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Herramientas de producción
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Tutorial del proyecto
 ```
 npm run lint
 ```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# Vue-Project-TecWeb
->>>>>>> dad3bcb3eb448b83b537336a0355d9b29185bb00
